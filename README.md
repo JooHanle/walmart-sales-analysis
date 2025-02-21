@@ -13,7 +13,8 @@ Analyser les tendances des ventes de Walmart et proposer des recommandations str
 
 ## Technologies utilisées  
 - Python  
-- Pandas, Matplotlib, Seaborn  
+- Pandas, Matplotlib, Seaborn
+- Plotly (visualisation interactive)
 - Jupyter Notebook  
 
 ## Résumé des résultats  
