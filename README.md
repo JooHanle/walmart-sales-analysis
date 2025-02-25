@@ -5,7 +5,7 @@ Ce projet analyse les ventes des magasins Walmart en utilisant Python.
 ## Contenu du projet  
 - `data/` : Contient les fichiers de données utilisés pour l’analyse.  
 - `notebooks/` : Contient les notebooks Jupyter avec l’analyse des données.
-- 'présentation/' : Diapositives expliquant l'analyse, les insights et les recommandations.
+- 'Présentation/' : Diapositives expliquant l'analyse, les insights et les recommandations.
 - `analysis.py` : Script Python principal pour l’analyse des ventes.  
 - `requirements.txt` : Liste des bibliothèques Python utilisées.  
 
